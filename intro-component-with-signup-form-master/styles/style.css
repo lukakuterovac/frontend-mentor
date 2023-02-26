@@ -1,0 +1,32 @@
+body {
+  height: 100svh;
+
+  font-family: "Poppins", sans-serif;
+
+  background-color: hsl(0, 100%, 74%);
+  background-image: url("../images/bg-intro-desktop.png");
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.bg-purple {
+  background-color: hsl(248, 32%, 49%);
+}
+
+.box-shadow {
+  box-shadow: 0px 7px hsla(249, 10%, 26%, 20%);
+}
+
+.btn-form {
+  background-color: hsl(154, 59%, 51%);
+}
+
+.fs-7 {
+  font-size: 12px;
+}
+
+.text-terms {
+  color: hsl(0, 100%, 74%);
+}
